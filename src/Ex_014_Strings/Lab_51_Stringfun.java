@@ -11,6 +11,9 @@ public class Lab_51_Stringfun {
         System.out.println(s1.toUpperCase());
         System.out.println(s1.concat("kumar"));
         System.out.println(s1.charAt(0));
+        System.out.println(s1.equals("ji"));
 
     }
 }
+
+
