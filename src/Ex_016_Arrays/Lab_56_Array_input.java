@@ -19,7 +19,7 @@ public class Lab_56_Array_input {
 
         System.out.println("printing the elements ");
 
-        for (int i = 0; i < marks.length; i++) {
+        for(int i = 0; i < marks.length; i++) {
             System.out.println(marks[i]);
 
         }
