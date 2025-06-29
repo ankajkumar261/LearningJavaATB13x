@@ -19,5 +19,8 @@ public class Question_2 {
         System.out.println("compare it");
         System.out.println(s1.compareTo(s2));
 
+
+        System.out.println("Hello, World!");
+
     }
 }
