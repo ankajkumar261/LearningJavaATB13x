@@ -1,6 +1,6 @@
 package Ex_015_StringBuffer;
 
-import java.awt.desktop.SystemEventListener;
+
 import java.util.Scanner;
 
 public class palandrome {
