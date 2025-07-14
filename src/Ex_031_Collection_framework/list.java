@@ -1,6 +1,7 @@
 package Ex_031_Collection_framework;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 public class list {
@@ -13,8 +14,10 @@ public class list {
         list.add(6);
         list.add(7);
         list.add(8);
-        list.add("Ankaj");
-        list.remove(0);
+        list.add(1);
+        //list.add("Ankaj");
+        Collections.sort(list);
+       // list.remove(0);
         System.out.println(list);
 
 
