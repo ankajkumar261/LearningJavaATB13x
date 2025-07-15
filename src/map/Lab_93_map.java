@@ -17,6 +17,9 @@ public class Lab_93_map {
         map.put("id5",null);
 
         System.out.println(map);
+        System.out.println(map.containsValue(34));
+        System.out.println(map.isEmpty());
+        System.out.println();
 
     }
 }
